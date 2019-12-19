@@ -1,2 +1,4 @@
 # Kaggle_practice
-This repo is a practice for data analysis based on a dataset from Kaggle.
+This repo is to practice for data analysis based on a dataset from Kaggle.
+
+*Kaggle URL: http://kaggle.com/
